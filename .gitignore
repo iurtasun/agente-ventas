@@ -11,6 +11,10 @@ env/
 # Agent / Copilot SDK runtime state
 .copilot-state/
 
+# Logs locales del servidor
+server.log
+*.log
+
 # Python
 __pycache__/
 *.py[cod]
